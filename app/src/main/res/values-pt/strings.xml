@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="toast_message">Yarr Mundo!</string>
+    <string name="welcome_text">Bem-vindo ao CS 273 - Mobile Application Development</string>
+    <string name="button_text">Tirita eu madeiras</string>
+</resources>
